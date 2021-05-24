@@ -1,0 +1,7 @@
+name="ANGLE OF LOVE"
+director="JYOTI KANT THAKUR"
+year=2020
+actor="ANKIT JAIN"
+rating=7.9
+print('Movie\n')
+print('Title:{}\nDirector:{}\nyear:{}\nactor:{}\nrating:{}'.format(name,director,year,actor,rating))
