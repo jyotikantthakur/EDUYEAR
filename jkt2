@@ -1,0 +1,9 @@
+name='jyoti kant thakur'
+age = 23
+marks = 98.3
+message='i have a dought'
+mobile=9857342
+print(('hello! i am{}.i am{}years old)
+
+
+
